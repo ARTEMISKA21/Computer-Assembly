@@ -8,7 +8,7 @@ import re
 import tkinter.font as tkFont
 from mistralai import Mistral
 
-api_key = "PRNU3mr2ydQUFVZOPBW4lTiljn9cOVgx"
+api_key = "API"
 model = "mistral-large-latest"
 client = Mistral(api_key=api_key)
 ctk.set_appearance_mode("System")
